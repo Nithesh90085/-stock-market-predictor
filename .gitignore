@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Models folder — regenerate with: python train_model.py
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
